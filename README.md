@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @OlmanPalma
+- 🎨 I'm a creative thinker with a passion for taking on diverse projects and pushing boundaries.
+- 🤝 I have excellent people skills and a natural team player who thrives on collaboration.
+- 🔍 I'm inherently curious mind with a knack for understanding the structure of complex systems.
+- 🚀 Quick learner and tech-savvy enthusiast always eager to explore new technologies and tools.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
